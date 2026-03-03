@@ -2,7 +2,7 @@ i prefer js
 **Name:** Farah Afouzar  
 **Role:** IT Professional - Morocco
 
-## Technical Goals
+hhhhhhhhhhhhh
 
 - Master Git and GitHub workflow
 - Improve backend development skills

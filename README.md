@@ -1,5 +1,4 @@
-# Git Warmup
-
+i prefer js
 **Name:** Farah Afouzar  
 **Role:** IT Professional - Morocco
 
